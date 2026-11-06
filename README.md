@@ -53,7 +53,7 @@ Brief flickering and triangle stretching have been resolved in the tested enviro
 
 - Game: FINAL FANTASY XIV, Chinese client, native Direct3D 11.
 - GPU: Intel Arc B580.
-- Driver: Intel 32.0.101.9034, 32.0.101.9150.
+- Driver: Intel 32.0.101.9034, 32.0.101.9150, 32.0.101.9175.
 - [ReShade](https://reshade.me/): 6.8.0 with full add-on support.
 - [OptiScaler](https://github.com/optiscaler/OptiScaler): v0.9.4-final, installed as `winmm.dll`.
 

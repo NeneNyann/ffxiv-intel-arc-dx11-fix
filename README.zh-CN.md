@@ -53,7 +53,7 @@
 
 - 游戏：FINAL FANTASY XIV 国服客户端，原生 Direct3D 11。
 - 显卡：Intel Arc B580。
-- 驱动：Intel 32.0.101.9034、32.0.101.9150。
+- 驱动：Intel 32.0.101.9034、32.0.101.9150、32.0.101.9175。
 - [ReShade](https://reshade.me/)：6.8.0 with full add-on support。
 - [OptiScaler](https://github.com/optiscaler/OptiScaler)：v0.9.4-final，`winmm.dll` 安装模式。
 
