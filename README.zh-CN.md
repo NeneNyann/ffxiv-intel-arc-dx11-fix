@@ -35,7 +35,7 @@
 
 - Intel Arc A 系列（Alchemist / DG2）。
 - Intel Arc B 系列（Battlemage / BMG）。
-- 驱动：32.0.101.9034、32.0.101.9150。
+- 驱动：32.0.101.9034、32.0.101.9150、32.0.101.9175。
 
 仅在 Intel Arc B580 上测试。
 
@@ -51,7 +51,7 @@
 
 ## 已测试环境
 
-- 游戏：FINAL FANTASY XIV 国服客户端，原生 Direct3D 11。
+- 游戏：FINAL FANTASY XIV Steam 版，原生 Direct3D 11。
 - 显卡：Intel Arc B580。
 - 驱动：Intel 32.0.101.9034、32.0.101.9150、32.0.101.9175。
 - [ReShade](https://reshade.me/)：6.8.0 with full add-on support。

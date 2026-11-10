@@ -35,7 +35,7 @@ To uninstall, remove `winhttp.dll`.
 
 - Intel Arc A series (Alchemist / DG2).
 - Intel Arc B series (Battlemage / BMG).
-- Driver: 32.0.101.9034, 32.0.101.9150.
+- Driver: 32.0.101.9034, 32.0.101.9150, 32.0.101.9175.
 
 Tested only on Intel Arc B580.
 
@@ -51,7 +51,7 @@ Brief flickering and triangle stretching have been resolved in the tested enviro
 
 ## Tested Environment
 
-- Game: FINAL FANTASY XIV, Chinese client, native Direct3D 11.
+- Game: FINAL FANTASY XIV, Steam version, native Direct3D 11.
 - GPU: Intel Arc B580.
 - Driver: Intel 32.0.101.9034, 32.0.101.9150, 32.0.101.9175.
 - [ReShade](https://reshade.me/): 6.8.0 with full add-on support.
